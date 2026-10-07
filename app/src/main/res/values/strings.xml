@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusCanteen</string>
+    <string name="app_title">CAMPUSCANTEEN</string>
+    <string name="app_subtitle">Pesan makanan kampus dengan mudah</string>
+
+    <string name="welcome_card_title">🍱 Kantin Kampus</string>
+    <string name="welcome_card_desc">Pesan makanan tanpa antre panjang.</string>
+    <string name="btn_start_order">Mulai Pesan</string>
+
+    <string name="section_menu_title">Pilih Menu Kantin</string>
+    <string name="section_order_summary">Ringkasan Pesanan</string>
+    <string name="section_payment_method">Metode Pembayaran</string>
+    <string name="section_simulation_mode">Mode Pengujian (Simulator)</string>
+    <string name="simulation_hint">Mode ini digunakan untuk simulasi error handling &amp; recovery.</string>
+
+    <string name="btn_pay_now">Bayar Sekarang</string>
+    <string name="btn_retry">Coba Lagi</string>
+    <string name="btn_confirm_cash">Konfirmasi Pembayaran Tunai</string>
+    <string name="btn_order_again">Pesan Lagi</string>
+    <string name="btn_test_high_value">Uji Transaksi Besar (&gt;10jt)</string>
+
+    <string name="dialog_auth_title">Otorisasi Supervisor</string>
+    <string name="dialog_auth_message">Nilai transaksi melebihi batas (Rp 10.000.000). Masukkan PIN Supervisor untuk melanjutkan.</string>
+    <string name="pin_hint">Masukkan PIN</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_authorize">Otorisasi</string>
+
+    <string name="dialog_max_retry_title">Pembayaran Online Tidak Tersedia</string>
+    <string name="dialog_max_retry_message">Koneksi pembayaran sedang bermasalah setelah 3 kali percobaan. Silakan gunakan pembayaran tunai manual.</string>
+    <string name="btn_pay_cash">Bayar Tunai</string>
+    <string name="btn_close">Tutup</string>
+</resources>
